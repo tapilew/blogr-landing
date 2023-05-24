@@ -1,4 +1,7 @@
 body {
-  background-color: #0078d7;
+  margin: 0;
+  padding: 0;
+  background-color: #1f67b3;
   color: #fff;
-} /*# sourceMappingURL=main.css.map */
+  font-family: "IBM Plex Sans", sans-serif;
+}/*# sourceMappingURL=main.css.map */

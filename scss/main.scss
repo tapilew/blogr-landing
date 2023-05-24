@@ -1,4 +1,13 @@
+$primary-color: #fdf4e8;
+$secondary-color: #b15934;
+$tertiary-color: #274d52;
+$primary-text-color: #5b7f3a;
+$font-stack: "IBM Plex Sans", sans-serif;
+
 body {
   background-color: #1f67b3;
   color: #fff;
+  font-family: $font-stack;
+  margin: 0;
+  padding: 0;
 }
