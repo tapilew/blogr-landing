@@ -1,2 +1,2 @@
-# happybara-landing
-Landing page for Happybara.lol
+# blogr-landing
+Blogr Landing Page
